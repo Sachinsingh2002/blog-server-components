@@ -6,7 +6,7 @@ import Markdown from "react-markdown";
 
 const content = `# About Me
 
-// ![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/db7abbe3-aa5c-433e-a16d-cbf137d1c9e5.png/public)
+
 
 Hey there! I'm Sachin, a final-year B.Tech student majoring in Computer Science. With a passion for technology and innovation, I have developed strong skills in software development, data structures, and algorithms. I am eager to apply my knowledge and experience in real-world projects and contribute to the tech industry I am so passionate about, I am currently looking for opportunities.
 
