@@ -10,7 +10,7 @@ const content = `# About Me
 
 Hey there! I'm Sachin, a final-year B.Tech student majoring in Computer Science. With a passion for technology and innovation, I have developed strong skills in software development, data structures, and algorithms. I am eager to apply my knowledge and experience in real-world projects and contribute to the tech industry I am so passionate about, I am currently looking for opportunities.
 
-// ![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/6b080e65-2329-4a36-ad5c-0a6af8d9aeb1.png/public)
+
 
 This blog is where I'll be documenting my travels, sharing my experiences, and hopefully inspiring others to follow their wanderlust. From trekking through remote villages to savoring local cuisines, I'm on a mission to immerse myself in different cultures and create memories that will last a lifetime.
 
@@ -20,9 +20,8 @@ So join me on this adventure, and let's explore the world together! Who knows, m
 
 Let's go on an adventure!
 
-Love,
 
-Samantha`;
+Sachin`;
 
 export async function generateMetadata() {
   return {
@@ -33,7 +32,7 @@ export async function generateMetadata() {
       description: "Learn more about Samantha and her travel adventures",
       images: [
         signOgImageUrl({
-          title: "Samantha",
+          title: "Sachin",
           label: "About Me",
           brand: config.blog.name,
         }),
